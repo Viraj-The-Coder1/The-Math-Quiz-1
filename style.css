@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+.login_div{
+    background-color:deeppink;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+#BLogin{
+    color: gold;
+}
